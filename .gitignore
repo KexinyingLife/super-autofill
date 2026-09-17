@@ -1,0 +1,7 @@
+exports/
+bridge/auth.json
+__pycache__/
+*.pyc
+.env
+node_modules/
+.DS_Store

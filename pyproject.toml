@@ -1,0 +1,12 @@
+[project]
+name = "form-autofill"
+version = "1.0.0"
+description = "Automated form-filling framework with non-destructive xlsx editing and browser automation"
+requires-python = ">=3.10"
+dependencies = [
+    "openpyxl>=3.1",
+    "xlsxwriter>=3.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
