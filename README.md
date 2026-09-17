@@ -1,4 +1,4 @@
-# form-autofill
+# super-autofill
 
 A Python + Node.js automation framework for filling structured forms via browser automation, with non-destructive spreadsheet editing at the OOXML level.
 
